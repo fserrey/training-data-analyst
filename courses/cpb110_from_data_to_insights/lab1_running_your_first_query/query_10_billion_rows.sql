@@ -1,4 +1,3 @@
-```sql
 -- standardsql
 SELECT
   title,
@@ -9,4 +8,3 @@ WHERE
 GROUP BY title  
 ORDER BY view_count DESC
 LIMIT 100;
-```
